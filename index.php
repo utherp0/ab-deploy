@@ -15,7 +15,7 @@
 </table>
 
 <?php 
- echo "App running at version <b>1</b><br/>";
+ echo "App running at version <b>2</b><br/>";
  echo "IP of Pod serving this App: <b> ".$_SERVER['SERVER_ADDR'] ;
  echo "</b><br/><hr width='1'/>"
  ?>
